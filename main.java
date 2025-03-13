@@ -8,6 +8,7 @@ public class main {
         System.out.println(java.util.Arrays.toString(result2));
         System.out.println(java.util.Arrays.toString(result3));
     }
+    //
     public static int[] filterEvenIndexOddValue(int[] array) {
         int count = 0;
         for (int i = 0; i < array.length; i += 2) {
